@@ -184,8 +184,6 @@ li {
     flex-direction: column;
     display: flex;
     flex-wrap: wrap;
-
-    flex-direction: row;
 }
 
 .item {
@@ -206,8 +204,7 @@ li {
     font-family: 'Karla', sans-serif;
     color: hsl(273, 4%, 51%);
     font-size: small;
-    line-height: 1.5em;
-    
+    line-height: 1.5em;   
 }
 
 .mid-h1 {
